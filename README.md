@@ -37,9 +37,6 @@
   <a href="mailto:wonjung67@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <a href="https://github.com/AwayJung">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-  </a>
   <a href="https://www.notion.so/Study-Away-_-ca55382a6344434ab3a3c5b32414a0e5">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
   </a>
